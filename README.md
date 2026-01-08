@@ -19,21 +19,21 @@
 - [Семинар 9: Clustering](./seminars/20_clustering_clean.ipynb)
 
 ### 📝 Домашние задания
-- [1 Попарные углы:]
-- [2 Cвертка:]
-- [3 Брахистохрона:]
-- [4 Split:]
-- [5 Паром:]
-- [6 Линрег:]
+- [1 Попарные углы:](./homeworks/hw_syimyk_khamdamov.ipynb)
+- [2 Cвертка:](./homeworks/hw_syimyk_khamdamov.ipynb)
+- [3 Брахистохрона:](./homeworks/hw_syimyk_khamdamov.ipynb)
+- [4 Split:](./homeworks/hw_syimyk_khamdamov.ipynb)
+- [5 Паром:](./homeworks/hw_syimyk_khamdamov.ipynb)
+- [6 Линрег:](./homeworks/hw_syimyk_khamdamov.ipynb)
 - [7 was skiped due to seminarist's requirements]
-- [8^* Экспоненциальный шум:]
-- [9^* Эллипс:]
-- [10^* Happiness:]
-- [11^* NNLS:]
-- [12^* ODR:]
-- [13 gelss:]
-- [14 gelsd:]
-- [15 gelsy:]
-- [16 Cholesky:]
+- [8^* Экспоненциальный шум:](./homeworks/8_9.ipynb)
+- [9<sup>*</sup> Эллипс:](./homeworks/8_9.ipynb)
+- [10^* Happiness:](./homeworks/10.ipynb)
+- [11^* NNLS:](./homeworks/11_12.ipynb)
+- [12^* ODR:](./homeworks/11_12.ipynb)
+- [13 gelss:](./homeworks/13_16.ipynb)
+- [14 gelsd:](./homeworks/13_16.ipynb)
+- [15 gelsy:](./homeworks/13_16.ipynb)
+- [16 Cholesky:](./homeworks/13_16.ipynb)
   
 
