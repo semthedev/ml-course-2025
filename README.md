@@ -10,7 +10,7 @@
 ### 🧪 Семинары
 - [Семинар 1: NumPy (Numerical Python)](./seminars/01_numpy.ipynb)
 - [Семинар 2: SciPy (Scientific Python)](./seminars/02_scipy_clean.ipynb)
-- [Семинар 3: Pandas)](./seminars/03_pandas_clean.ipynb)
+- [Семинар 3: Pandas](./seminars/03_pandas_clean.ipynb)
 - [Семинар 4: scikit-learn, бинарная классификация)](./seminars/04_sklearn_clean_(1).ipynb)
 - [Семинар 5: non-gaussian noise](./seminars/11_non_gaussian_noise_clean.ipynb)
 - [Семинар 6: Интерпретируем линейные модели](./seminars/12_interpretation_clean.ipynb)
