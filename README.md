@@ -17,8 +17,8 @@
 - [Семинар 7: The Zoo of Linear Models](./seminars/13_the_zoo_of_linear_models.ipynb)
 - [Семинар 8: Matrix Decompositions](./seminars/14_matrix_decompositions.ipynb)
 - [Семинар 9: Clustering](./seminars/20_clustering_clean.ipynb)
-- [Семинар 10: Density Estimation] (./seminars/21_kernel_density_estimation_clean.ipynb)
-- [Семинар 11: Gaussian Processes II] (./seminars/22_gp_vol2_clean.ipynb)
+- [Семинар 10: Density Estimation](./seminars/21_kernel_density_estimation_clean.ipynb)
+- [Семинар 11: Gaussian Processes II](./seminars/22_gp_vol2_clean.ipynb)
 
 ### 📝 Домашние задания
 - [1. Попарные углы](./homeworks/hw_syimyk_khamdamov.ipynb)
